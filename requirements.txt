@@ -1,0 +1,4 @@
+python-dotenv
+streamlit
+psycopg2
+psycopg2-binary
